@@ -1,49 +1,3 @@
-<html>
-  <html lang="pt-br">
-
-    <head>
-      <meta charset="utf-8">
-      <title>ITQ | EAD</title>
-    
-      <!-- mobile responsive meta -->
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
-      <!-- ** Plugins Needed for the Project ** -->
-      <!-- Bootstrap -->
-      <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
-      <!-- slick slider -->
-      <link rel="stylesheet" href="plugins/slick/slick.css">
-      <!-- themefy-icon -->
-      <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
-      <!-- animation css -->
-      <link rel="stylesheet" href="plugins/animate/animate.css">
-      <!-- aos -->
-      <link rel="stylesheet" href="plugins/aos/aos.css">
-      <!-- venobox popup -->
-      <link rel="stylesheet" href="plugins/venobox/venobox.css">
-    
-      <!-- Main Stylesheet -->
-      <link href="css/style.css" rel="stylesheet">
-    
-      <!--Favicon-->
-      <link rel="icon" href="/images/favicon.ico" sizes="32x32" />
-    
-    </head>
-  <body>
-    <h1>Teste de incorporação de vídeos</h1>
-    <p>Saiba mais sobre mim <a href="https://serginho.obalski.com.br"><strong>AQUI</strong></a> </p>
-    <div>
-      <div>
-        <h3>Aulas de Pentateuco</h3>
-      </div>
-      <h4>Capítulo 01</h4>
-      <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8899uy" width="100%" height="100%" allowfullscreen > </iframe> </div>
-
-      <h4>Capítulo 02 - parte 01</h4>
-      <iframe style="width: 100vw; height: 56.25vw; max-height: 100vh; max-width: 177.78vh;margin: auto; top: 120px; left: 0; right: 0;" src="https://drive.google.com/file/d/1U6VQnENqa_Kf9Vwpfl8QZfJxYUcJO678/preview"></iframe>
-
-    </div>
 
   <!-- footer -->
   <footer>
@@ -54,7 +8,7 @@
         <div class="row">
           <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
             <!-- logo -->
-            <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="images/logo.png" alt="logo"></a>
+            <a class="logo-footer" href="#"><img class="img-fluid mb-4" src="images/logo.png" alt="logo"></a>
             <ul class="list-unstyled">
               <li class="mb-2">Tv. Timbó, 1212 - Pedreira, <br>
                 Belém - PA, 66085-354</li>
@@ -66,16 +20,17 @@
           <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
             <h4 class="text-white mb-5">SEEC|PA</h4>
             <ul class="list-unstyled">
-              <li class="mb-3"><a class="text-color" href="index.html#sobre">Sobre nós</a></li>
-              <li class="mb-3"><a class="text-color" href="index.html#departamentos">Departamentos</a></li>
+              <li class="mb-3"><a class="text-color" href="#sobre">Sobre nós</a></li>
+              <li class="mb-3"><a class="text-color" href="#departamentos">Departamentos</a></li>
+              <li class="mb-3"><a class="text-color" href="#contato">Contato</a></li>
             </ul>
           </div>
           <!-- links -->
           <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
             <h4 class="text-white mb-5">LINKS</h4>
             <ul class="list-unstyled" style="color: white;">
-              <li class="mb-3"><a class="text-color" href="index.html#cursos">Cursos</a></li>
-              <li class="mb-3"><a class="text-color" href="index.html#eventos">Eventos</a></li>
+              <li class="mb-3"><a class="text-color" href="#cursos">Cursos</a></li>
+              <li class="mb-3"><a class="text-color" href="#eventos">Eventos</a></li>
             </ul>
           </div>
           <!-- support -->
@@ -123,25 +78,26 @@
     </div>
   </footer>
   <!-- /footer -->
-  
-    <!-- jQuery -->
-    <script src="plugins/jQuery/jquery.min.js"></script>
-    <!-- Bootstrap JS -->
-    <script src="plugins/bootstrap/bootstrap.min.js"></script>
-    <!-- slick slider -->
-    <script src="plugins/slick/slick.min.js"></script>
-    <!-- aos -->
-    <script src="plugins/aos/aos.js"></script>
-    <!-- venobox popup -->
-    <script src="plugins/venobox/venobox.min.js"></script>
-    <!-- mixitup filter -->
-    <script src="plugins/mixitup/mixitup.min.js"></script>
-    <!-- google map -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
-    <script src="plugins/google-map/gmap.js"></script>
-  
-    <!-- Main Script -->
-    <script src="js/script.js"></script>    
 
-  </body>
+  <!-- jQuery -->
+  <script src="plugins/jQuery/jquery.min.js"></script>
+  <!-- Bootstrap JS -->
+  <script src="plugins/bootstrap/bootstrap.min.js"></script>
+  <!-- slick slider -->
+  <script src="plugins/slick/slick.min.js"></script>
+  <!-- aos -->
+  <script src="plugins/aos/aos.js"></script>
+  <!-- venobox popup -->
+  <script src="plugins/venobox/venobox.min.js"></script>
+  <!-- mixitup filter -->
+  <script src="plugins/mixitup/mixitup.min.js"></script>
+  <!-- google map -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
+  <script src="plugins/google-map/gmap.js"></script>
+
+  <!-- Main Script -->
+  <script src="js/script.js"></script>
+
+</body>
+
 </html>
